@@ -1,0 +1,24 @@
+{
+  "question": "What was the total revenue in July 2016?"
+}
+
+{
+  "answer": "The total revenue in July 2016 was approximately $3,000,000."
+}
+
+
+{
+  "question": "In which month and year was the highest revenue recorded?"
+}
+
+{
+  "answer": "The highest revenue was recorded in August 2017."
+}
+
+
+{
+  "question": "Which country had the highest number of bookings?"
+}
+{
+  "answer": "Portugal had the highest number of bookings."
+}
